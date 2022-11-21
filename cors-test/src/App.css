@@ -1,0 +1,10 @@
+.container{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  height: 60vh;
+}
+
+.table-details{
+  margin-top: 100px;
+}
